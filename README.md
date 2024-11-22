@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi there, I am Ishtiak 👋
+<!-- # ishtiak -->
+
+🌟 About Me
+
+    🎓 Undergraduate
+    📚 Interests:
+          Software Development
+          Web Applications
+    🚀 Currently learning Python.
+    ✨ I enjoy capturing the world through my lens! Check out my Photography Blog.
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiakahmedayon&layout=compact)
+
+
+
+📫 Let's Connect!
+
+    Email: ishtiakahmedayon@gmail.com
+
 
 <!--
 **ishtiakahmedayon/ishtiakahmedayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
