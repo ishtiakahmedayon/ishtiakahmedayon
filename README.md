@@ -16,7 +16,7 @@
 
 📫 Let's Connect!
 
-    Email: ishtiakahmedayon@gmail.com
+[Email](mailto:ishtiakahmedayon@example.com)
 
 
 <!--
