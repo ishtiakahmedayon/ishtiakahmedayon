@@ -3,7 +3,7 @@
 
 🌟 About Me
 
-    🎓 Undergraduate
+    🎓 IT Undergrad
     📚 Interests:
           Software Development
           Web Applications
