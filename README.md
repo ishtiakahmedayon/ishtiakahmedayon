@@ -1,4 +1,4 @@
-## Hi there, I am Ishtiak 👋
+## 
 <!-- # ishtiak -->
 
 🌟 About Me
