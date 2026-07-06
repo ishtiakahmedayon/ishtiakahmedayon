@@ -7,9 +7,6 @@
     - Interests:
           > Web Applications
           > Ai
-    
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiakahmedayon&layout=compact)-->
-### GitHub Stats
 
 ### GitHub Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishtiakahmedayon&theme=radical)
