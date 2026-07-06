@@ -11,17 +11,17 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiakahmedayon&layout=compact)-->
 ### GitHub Stats
 
-![Ishtiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtiakahmedayon&show_icons=true&theme=radical&cache_seconds=1800)
-
-
+### GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishtiakahmedayon&theme=radical)
 
 ### Top Languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishtiakahmedayon&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiakahmedayon&layout=compact&theme=radical&cache_seconds=1800)
+### Contribution Graph
+![GitHub Contribution Grid](https://www.dailygreen.xyz/ishtiakahmedayon)
 
 
 📫 Let's Connect:
-[Email](mailto:ishtiakahmedayon@example.com)
+[Email](mailto:ishtiakayon1@gmail.com)
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
 
